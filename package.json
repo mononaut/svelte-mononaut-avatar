@@ -1,6 +1,8 @@
 {
   "name": "svelte-mononaut-avatar",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "An animated svg-and-css mononaut space monkey avatar",
+  "repository": "github:mononaut/svelte-mononaut-avatar",
   "private": false,
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -18,5 +20,7 @@
   "dependencies": {
     "node-sass": "^6.0.0",
     "svelte-preprocess": "^4.7.3"
-  }
+  },
+  "author": "mononaut",
+  "license": "MIT"
 }
